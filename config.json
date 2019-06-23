@@ -1,0 +1,17 @@
+{
+  "region": "",
+  "ssh-key": "",
+  "security-group-id": [
+    ""
+  ],
+  "instance-type": "",
+  "launch-configuration-name": "",
+  "autoscaling-group_name": "",
+  "target-group": {
+    "arn": ""
+  },
+  "loadbalancer": {
+    "arn": ""
+  },
+  "version": ""
+}
